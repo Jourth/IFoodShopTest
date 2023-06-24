@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IFoodShopTest</string>
+
+    <!-- Menu -->
+    <string name="menu_menu">Меню</string>
+    <string name="menu_profile">Профиль</string>
+    <string name="menu_cart">Корзина</string>
+
+    <!-- Categories -->
+    <string name="category_pizza">Пицца</string>
+    <string name="category_combo">Комбо</string>
+    <string name="category_desserts">Десерты</string>
+    <string name="category_drinks">Напитки</string>
+
+</resources>
